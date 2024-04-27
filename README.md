@@ -17,6 +17,12 @@ To write a program to predict the profit of a city using the linear regression m
 7. Inverse transform the predicted profit to get the original scale using the same scaler used for scaling the target variable.
 8. Print the predicted profit. 
 
+
+
+
+
+
+
 ## Program:
 ```
 /*
@@ -24,14 +30,6 @@ Program to Implement the Linear Regression using Gradient Descent
 Developed By    : MIDHUN S
 Register Number : 212223240087
 */
-
-
-
-
-
-
-
-
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
