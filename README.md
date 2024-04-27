@@ -74,9 +74,20 @@ print(f"Predicted value:{pre}")
 
 ## Output:
 
+### X values
+![EXP 3 1](https://github.com/23003250/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/139331462/20deb71c-8716-426d-b0c9-9156560c83fc)
 
-![5](https://github.com/23003250/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/139331462/caf22e57-14d7-4f0f-ac24-895db1a647af)
+### y values
+![EXP 3 2](https://github.com/23003250/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/139331462/7da77b85-646a-4b25-8a36-a94d655a834d)
 
+### X Scaled values
+![EXP 3 3](https://github.com/23003250/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/139331462/e82933a0-bf76-4722-a76f-a92c0245b60b)
+
+### y Scaled values
+![EXP 3 4](https://github.com/23003250/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/139331462/a36cc918-d50c-4c2d-8419-9b4ec389de77)
+
+### Predicted value
+![EXP 3 5](https://github.com/23003250/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/139331462/f2290a00-bddf-4848-b459-d300e52eb66b)
 
 
 ## Result:
